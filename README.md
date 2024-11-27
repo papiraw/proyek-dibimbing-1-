@@ -26,9 +26,6 @@ Algoritma yang digunakan dalam proyek ini adalah Support Vector Machine (SVM) de
 2. Visualisasi menunjukkan pemisahan yang jelas antara kelas bunga berdasarkan fitur-fitur yang digunakan.
 
 **Saran**
-Saran
-
-Proyek ini dapat diperluas dengan:
 
 1. Mencoba algoritma lain seperti Random Forest atau K-Nearest Neighbors untuk membandingkan performa.
 2. Menggunakan kernel SVM yang berbeda (misalnya RBF) untuk meningkatkan akurasi.
