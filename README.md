@@ -1,7 +1,8 @@
 # Klasifikasi Dataset Iris dengan SVM   
 ## Portofolio Proyek: Klasifikasi Data Menggunakan Support Vector Machine (SVM)
 
-Proyek ini bertujuan untuk mengklasifikasikan tiga jenis bunga iris (Setosa, Versicolor, Virginica) menggunakan dataset Iris dari pustaka Scikit-learn. Dataset ini berisi informasi tentang panjang dan lebar sepal (daun kelopak) serta petal (kelopak bunga) yang digunakan untuk membedakan jenis bunga.
+Proyek ini bertujuan untuk mengklasifikasikan tiga jenis bunga iris (Setosa, Versicolor, Virginica) menggunakan dataset Iris dari : https://scikit-learn.org/1.5/datasets/toy_dataset.html
+Dataset ini berisi informasi tentang panjang dan lebar sepal (daun kelopak) serta petal (kelopak bunga) yang digunakan untuk membedakan jenis bunga.
 
 Algoritma yang digunakan dalam proyek ini adalah Support Vector Machine (SVM) dengan kernel linear. SVM membantu memisahkan kelas-kelas bunga berdasarkan fitur-fitur yang ada secara efektif.
 
